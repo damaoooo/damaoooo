@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 This is damaoooo, a 2nd Year Ms/PhD student in King Abdullah University of Science and Technology
+
+* 🌴 I'm currently working on combining Binary Analysis with Machine Learning
+* 🤣 I participated CTF competitions as a RE player (Very Bad Skill!).
+* 🌱 Programming Language: Python, Golang, C.
+* 🤔 I’m interested in LLVM, Binary Lifters
+* ⚡ Blog: [damaoooo blog (written in Chinese)](https://damaoooo.github.io "damaoooo")
+
+![damaoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=damaoooo)
